@@ -103,6 +103,9 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
+main section {
+  margin-top: 130px;
+}
 
 /* About Section Styles */
 .about {
@@ -148,7 +151,8 @@ main {
 }
 .skills-container {
   display: flex;
-  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 0;
 }
 .skill {
   padding: 30px 33px;
@@ -156,10 +160,24 @@ main {
   background: #fff;
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+.skill-title {
+  color: #181818;
+  font-size: 20px;
+  font-weight: 700;
+}
 .skill-description {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
   color: #757575;
   max-width: 201px;
+}
+/* Resume Section Styles */
+.resume-column-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.resume-container {
+  display: flex;
 }

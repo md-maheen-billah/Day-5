@@ -221,4 +221,11 @@ main section {
 .download-cv {
   text-align: center;
   margin-top: 50px;
+  margin-bottom: 113px;
+}
+/* Footer Section Styles */
+footer {
+  display: flex;
+  background-color: #fff8f3;
+  padding: 130px 230px;
 }

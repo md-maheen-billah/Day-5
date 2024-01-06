@@ -4,4 +4,4 @@ Built a portfolio website using figma file and relevent resources. Not responsiv
 
 ## Links
 
- - Practice task: https://md-maheen-billah.github.io/developer-portfolio/
+ - Practice task: https://md-maheen-billah.github.io/Day-5/
